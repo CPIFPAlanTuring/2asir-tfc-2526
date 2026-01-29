@@ -58,7 +58,7 @@ suficiente a su presentación.
 * Entrega de proyecto: **13 de marzo de 2026**
 * Exposiciones: **17 de marzo de 2026**
 
-#### :calendar: lunes 16 de junio de 2025
+#### :calendar: martes 17 de marzo de 2026
 
 - [ ] 09:00h **Proyecto xx** - Alumno xx
 - [ ] 09:20h **Proyecto xx** - Alumno xx
