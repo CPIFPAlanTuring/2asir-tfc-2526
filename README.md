@@ -23,7 +23,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Video final](https://)
    
 * **02: Sistema de Gestión de Parking del Centro Educativo** - Ibou Laye Montero Lloret
-    - [Anteproyecto](https://)
+    - [Anteproyecto](https://subsequent-slouch-dc0.notion.site/Anteproyecto-Sistema-de-gesti-n-de-parking-de-cetro-educativo-294896960085807ba477fa06fd47d362)
     - [Repositorio del proyecto](https://github.com/IbuMontero/TFG-Parking)
     - [Checkpoint](https://)
     - [Video final](https://)
