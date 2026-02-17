@@ -31,7 +31,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 * **03: TuringHelpDesk - Sistema de Gestión de Incidencias IT para el centro educativo** - Nicolás García Conesa
     - [Anteproyecto](https://destiny-wakeboard-728.notion.site/ANTEPROYECTO-ASIR-2025-2026-2f7d7351597f8017b2dbeb22fdf3bddf?source=copy_link)
     - [Repositorio del proyecto](https://github.com/Nikorgone98/Sistema-incidencias-IT)
-    - [Checkpoint](https://)
+    - [Checkpoint](https://youtu.be/E0BKPSktfT8)
     - [Video final](https://)
   
 
