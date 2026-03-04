@@ -26,7 +26,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Anteproyecto](https://subsequent-slouch-dc0.notion.site/Anteproyecto-Sistema-de-gesti-n-de-parking-de-cetro-educativo-294896960085807ba477fa06fd47d362)
     - [Repositorio del proyecto](https://github.com/IbuMontero/TFG-Parking)
     - [Checkpoint](https://youtu.be/33uMAhsSA4k)
-    - [2º Checkpoint](https://)
+    - [2º Checkpoint](https://youtu.be/fPQUit62wYw)
     - [Video final](https://)
    
 * **03: TuringHelpDesk - Sistema de Gestión de Incidencias IT para el centro educativo** - Nicolás García Conesa
