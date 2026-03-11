@@ -62,10 +62,20 @@ suficiente a su presentación.
 
 #### :calendar: martes 17 de marzo de 2026
 
+NO SE PRESENTA NINGÚN PROYECTO A PETICIÓN DEL ALUMNADO
+
+## 📝 Fechas a tener en cuenta para exponer en la 3ª evaluación
+* Anteproyecto: **10 de abril de 2026**
+* Revisión (checkpoint): **08 de mayo de 2026**
+* Segunda Revisión (2º checkpoint): **05 de junio de 2026**
+* Entrega de proyecto: **12 de junio de 2026**
+* Exposiciones: **16 de junio de 2026**
+
+#### :calendar: martes 16 de junio de 2026
+
 - [ ] 09:00h **Proyecto xx** - Alumno xx
 - [ ] 09:20h **Proyecto xx** - Alumno xx
 - [ ] 09:50h **Proyecto xx** - Alumno xx
-
 ---
 ## Guía para la presentación - apartados de la presentación
 
