@@ -34,7 +34,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Anteproyecto](https://destiny-wakeboard-728.notion.site/ANTEPROYECTO-ASIR-2025-2026-2f7d7351597f8017b2dbeb22fdf3bddf?source=copy_link)
     - [Repositorio del proyecto](https://github.com/Nikorgone98/Sistema-incidencias-IT)
     - [Checkpoint](https://youtu.be/IpoRrUb3Fyg?si=iRAF5_xVgPOtWLOn)
-    - [2º Checkpoint](https://)
+    - [2º Checkpoint](https://youtu.be/6hmdH3P-X2o)
     - [Video final](https://)
   
 
