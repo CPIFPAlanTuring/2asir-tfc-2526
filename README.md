@@ -28,14 +28,14 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Repositorio del proyecto](https://github.com/IbuMontero/TFG-Parking)
     - [Checkpoint](https://youtu.be/33uMAhsSA4k)
     - [2º Checkpoint](https://youtu.be/bwq3SO7qAaM)
-    - [Video final](https://)
+    - [Video final](https://youtu.be/l3S-MhcH_sY)
    
 * **03: TuringHelpDesk - Sistema de Gestión de Incidencias IT para el centro educativo** - Nicolás García Conesa
     - [Anteproyecto](https://destiny-wakeboard-728.notion.site/ANTEPROYECTO-ASIR-2025-2026-2f7d7351597f8017b2dbeb22fdf3bddf?source=copy_link)
     - [Repositorio del proyecto](https://github.com/Nikorgone98/Sistema-incidencias-IT)
     - [Checkpoint](https://youtu.be/IpoRrUb3Fyg?si=iRAF5_xVgPOtWLOn)
     - [2º Checkpoint](https://youtu.be/6hmdH3P-X2o)
-    - [Video final](https://)
+    - [Video final](https://youtu.be/BAuU8RnWsxw)
   
 
 ## ⏰ Cuadrante horario de las exposiciones
@@ -74,9 +74,9 @@ NO SE PRESENTA NINGÚN PROYECTO A PETICIÓN DEL ALUMNADO
 
 #### :calendar: martes 16 de junio de 2026
 
-- [ ] 09:00h **Proyecto xx** - Alumno xx
-- [ ] 09:20h **Proyecto xx** - Alumno xx
-- [ ] 09:50h **Proyecto xx** - Alumno xx
+- [ ] 09:00h **02: Sistema de Gestión de Parking del Centro Educativo** - Ibou Laye Montero Lloret
+- [ ] 09:20h **03: TuringHelpDesk - Sistema de Gestión de Incidencias IT para el centro educativo** - Nicolás García Conesa
+- [ ] 09:50h **01: Sistema de Gestión de Reservas - Autos Costa Sol** - Juan Carlos García Calvo
 ---
 ## Guía para la presentación - apartados de la presentación
 
