@@ -76,7 +76,7 @@ NO SE PRESENTA NINGÚN PROYECTO A PETICIÓN DEL ALUMNADO
 
 - [ ] 09:00h **02: Sistema de Gestión de Parking del Centro Educativo** - Ibou Laye Montero Lloret
 - [ ] 09:20h **03: TuringHelpDesk - Sistema de Gestión de Incidencias IT para el centro educativo** - Nicolás García Conesa
-- [ ] 09:50h **01: Sistema de Gestión de Reservas - Autos Costa Sol** - Juan Carlos García Calvo
+- [ ] 09:40h **01: Sistema de Gestión de Reservas - Autos Costa Sol** - Juan Carlos García Calvo
 ---
 ## Guía para la presentación - apartados de la presentación
 
